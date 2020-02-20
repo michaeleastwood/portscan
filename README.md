@@ -1,6 +1,6 @@
-usage: portscan.py [-h] [-a ADDRESS | -f FILE] [-t TRACEROUTE] [-m MAXHOPS]
-                   [-p PORT] [-r RANGE]
-                   {tcp,udp,icmp}
+usage: portscan.py [-h] [-a ADDRESS | -f FILE] [-t TRACEROUTE] [-m MAXHOPS]\n
+                   [-p PORT] [-r RANGE]\n
+                   {tcp,udp,icmp}\n
 
 Port scanning.
 
